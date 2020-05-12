@@ -1,0 +1,4 @@
+# adding new field to Product type
+extend type Product {
+  additionalContent: String!
+}

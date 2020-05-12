@@ -84,6 +84,9 @@
       "config": {
         "api": "magento2"
       }
+    },
+    "simplest-extension": {
+      "package": "./src/simplest-extension"
     }
   },
   "session": {
